@@ -46,7 +46,8 @@ AI_Project_Nitish/
 
 1. **Clone or navigate to the project directory**
    ```powershell
-   cd d:\AI_Project_Nitish
+   git clone https://github.com/Xeylenol/AI_Project_Nitish.git
+   cd AI_Project_Nitish
    ```
 
 2. **Activate your virtual environment** (if using one)
